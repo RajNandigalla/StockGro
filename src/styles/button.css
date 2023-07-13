@@ -1,0 +1,21 @@
+.button {
+  all: unset;
+  padding: 0.8rem 1.5rem;
+  display: flex;
+  border-radius: 50rem;
+  background: var(--btn-default);
+  color: white;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: var(--btn-hover);
+}
+
+.button:active {
+  background-color: var(--btn-active);
+}
+
+.button:focus {
+  background-color: var(--btn-pressed);
+}

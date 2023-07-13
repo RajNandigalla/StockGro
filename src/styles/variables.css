@@ -1,0 +1,9 @@
+:root {
+  --divider: #c6c6c6;
+  --text: #0d141a;
+
+  --btn-hover: #3c5d7b;
+  --btn-default: #2a4256;
+  --btn-pressed: #192733;
+  --btn-active: #192733;
+}
